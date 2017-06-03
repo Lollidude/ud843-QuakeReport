@@ -6,7 +6,7 @@ from the U.S. Geological Survey (USGS) organization.
 
 Used in a Udacity course in the Beginning Android Nanodegree.
 
-More info on the test Earthquake API available at:
+More info on the test again Earthquake API available at:
 http://earthquake.usgs.gov/fdsnws/event/1/
 
 Pre-requisites
